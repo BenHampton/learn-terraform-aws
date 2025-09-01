@@ -1,0 +1,1 @@
+hashicorp account: https://app.terraform.io/app/hashicorp-learn-aws-org/workspaces/learn-terraform-aws
